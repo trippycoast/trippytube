@@ -4,7 +4,7 @@
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title class="font-weight-bold"
         ><router-link to="/" class="black--text" style="text-decoration: none"
-          >VueTube</router-link
+          >TrippyTube</router-link
         ></v-toolbar-title
       >
       <v-spacer></v-spacer>
@@ -78,9 +78,9 @@
               </v-list-item-avatar>
 
               <v-list-item-content>
-                <v-list-item-title>Tech Reagan</v-list-item-title>
+                <v-list-item-title>Trippycoast</v-list-item-title>
                 <v-list-item-subtitle
-                  >techreagan@gmail.com</v-list-item-subtitle
+                  >Danielkoruts7@gmail.com</v-list-item-subtitle
                 >
               </v-list-item-content>
             </v-list-item>
@@ -130,7 +130,7 @@
               @click="drawer = !drawer"
               class="mr-5"
             ></v-app-bar-nav-icon>
-            <v-toolbar-title class="font-weight-bold">VueTube</v-toolbar-title>
+            <v-toolbar-title class="font-weight-bold">TrippyTube</v-toolbar-title>
           </v-list-item>
           <v-divider class="hidden-lg-and-up"></v-divider>
           <div v-for="parentItem in items" :key="parentItem.header">

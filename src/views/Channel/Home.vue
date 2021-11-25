@@ -18,10 +18,10 @@
                   ></v-list-item-avatar>
                   <v-list-item-content class="align-self-auto">
                     <v-list-item-title class="headline mb-1"
-                      >Tech Reagan</v-list-item-title
+                      >Trippycoast</v-list-item-title
                     >
                     <v-list-item-subtitle
-                      >1.06M subscribers
+                      >120M subscribers
                     </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>

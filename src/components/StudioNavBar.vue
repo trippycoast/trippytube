@@ -72,9 +72,9 @@
               </v-list-item-avatar>
 
               <v-list-item-content>
-                <v-list-item-title>Tech Reagan</v-list-item-title>
+                <v-list-item-title>trippycoast</v-list-item-title>
                 <v-list-item-subtitle
-                  >techreagan@gmail.com</v-list-item-subtitle
+                  >Danielkoruts7@gmail.com</v-list-item-subtitle
                 >
               </v-list-item-content>
             </v-list-item>
@@ -93,7 +93,7 @@
               <v-list-item-icon>
                 <v-icon>mdi-youtube-studio</v-icon>
               </v-list-item-icon>
-              <v-list-item-title>VueTube Studio</v-list-item-title>
+              <v-list-item-title>trippyTube Studio</v-list-item-title>
             </v-list-item>
             <v-list-item router to="/signin">
               <v-list-item-icon>
@@ -180,9 +180,9 @@
 
             <v-list-item link to="/channels/222">
               <v-list-item-content>
-                <v-list-item-title class="title">Tech Reagan</v-list-item-title>
+                <v-list-item-title class="title">trippycoast</v-list-item-title>
                 <v-list-item-subtitle
-                  >techreagan1@gmail.com</v-list-item-subtitle
+                  >Danielkoruts7@gmail.com</v-list-item-subtitle
                 >
               </v-list-item-content>
             </v-list-item>
